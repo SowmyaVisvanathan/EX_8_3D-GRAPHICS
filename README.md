@@ -256,7 +256,7 @@ class Cube {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## OUTPUT:
-![image](https://github.com/SowmyaVisvanathan/EX_8_3D-GRAPHICS/assets/119475775/86397411-5787-4cf8-8e6f-6f03c6670802)
+![328192134-86397411-5787-4cf8-8e6f-6f03c6670802](https://github.com/SowmyaVisvanathan/EX_8_3D-GRAPHICS/assets/119475775/aff9934d-e251-4e20-aecb-480147ecae40)
 
 ## RESULT:
 Thus a Simple Android Application create and design an android application to draw a shapes using 3D graphics with openGL ES using Android Studio is developed and executed successfully.
